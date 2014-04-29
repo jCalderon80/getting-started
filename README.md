@@ -11,6 +11,7 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://wiki.coworking.org/w/page/16583831/FrontPage  <-- coworking wiki
 * https://geekli.st/home  <-- Social netoworking for developers
 * https://geekli.st/hackathon/  <-- start your hackathon
+* https://wireframe.cc. <-- online wireframe tool
 
 <b>Tools & Services</b>
 * https://stripe.com/  <-- credit card processing
@@ -29,3 +30,5 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://codecademy.com  <-- another source for free and paid courses    
 * Quora (particularly [this](https://www.quora.com/Learning-to-Program/What-are-the-best-resources-sites-books-or-tutorials-for-learning-programming) question) <-- excellent resource for where and how to learn programming
 * [E-books](https://drive.google.com/folderview?id=0B6K2B2YjelHvOTFfQVlWSHJQOG8&usp=sharing)
+* http://coursera.org  <-- great courses, found ones in python, cryptography and algorithms
+* http://theodinproject.com  <-- a free web development course front and back end.
