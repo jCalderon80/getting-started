@@ -11,7 +11,6 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://wiki.coworking.org/w/page/16583831/FrontPage  <-- coworking wiki
 * https://geekli.st/home  <-- Social netoworking for developers
 * https://geekli.st/hackathon/  <-- start your hackathon
-* https://wireframe.cc. <-- online wireframe tool
 
 <b>Tools & Services</b>
 * https://stripe.com/  <-- credit card processing
@@ -22,6 +21,8 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://balsamiq.com/  <-- Interface mockups
 * http://getbootstrap.com/  <-- front-end framework to get your app or site up and running
 * http://foundation.zurb.com/  <-- another front-end framework
+* https://wireframe.cc. <-- online wireframe tool
+* https://ngrok.com  <-- pretty cool tool lets you expose your local server to the web and capture traffic
 
 <b>Tutorials & Help</b>
 * http://try.github.io/levels/1/challenges/1  <-- learn to use github
